@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @eranelbaz
 
-I'm a Full stack developer in Rishon Lezyyon, Israel 🇮🇱🇮🇱🇮🇱 
+I'm a Full stack developer in Rishon Lezyyon, Israel 🇮🇱🇮🇱🇮🇱 <br>
 Currently work for 👨🏻‍💻 [Env0](https://github.com/env0)
 
 ## 🤹 Skills 
