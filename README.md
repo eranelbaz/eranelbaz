@@ -5,6 +5,7 @@ Currently work for 👨🏻‍💻 [Env0](https://github.com/env0)
 
 ## 🤹 Skills 
 - React and Node.js
+- Terraform / Serverless
 - Python
 - K8s
 - Serverless
@@ -13,7 +14,7 @@ Currently work for 👨🏻‍💻 [Env0](https://github.com/env0)
 - Elasic 
 
 ## 🎯 Hobbies
-- Sport
+- Gym
 - Diving
 - Photography and Videography
 - Game development
