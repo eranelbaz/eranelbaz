@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @eranelbaz
 
 I'm a Full stack developer in Rishon Lezyyon, Israel 🇮🇱🇮🇱🇮🇱 <br>
-Currently work for 👨🏻‍💻 [Env0](https://github.com/env0)
+Currently work for 👨🏻‍💻 [Env0](https://github.com/env0) <br>
 Part of the core development team of [OpenTF](https://github.com/opentffoundation/opentf)
 
 ## 🤹 Skills 
