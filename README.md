@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @eranelbaz
+# 👋 Hi, I’m @eranelbaz or just Elbaz
 
 I'm a Full stack developer in Tel Aviv, Israel 🇮🇱🇮🇱🇮🇱 <br>
 Currently work for 👨🏻‍💻 [Env0](https://github.com/env0) <br>
