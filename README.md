@@ -16,10 +16,13 @@ Part of the core development team of [OpenTofu](https://github.com/opentofu/open
 - Elastic 
 
 ## 🎯 Hobbies
-- Gym
+- Weight Lifting
+   - 70KG Bench Press
+   - 100KG Dead Lift
+   - 60KG Clean
+   - 60KG Front Squat
 - Diving
 - Photography and Videography
-- Game development
 - Stocks and Economy
 
 ## 📞 Contact
