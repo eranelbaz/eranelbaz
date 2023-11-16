@@ -6,7 +6,7 @@ Part of the core development team of [OpenTofu](https://github.com/opentofu/open
 
 ## 🤹 Skills 
 - React and Node.js
-- Terraform / Serverless
+- OpenTofu (Core Contributor) / Serverless
 - Python
 - K8s
 - Go
