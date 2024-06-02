@@ -17,10 +17,10 @@ Part of the core development team of [OpenTofu](https://github.com/opentofu/open
 
 ## 🎯 Hobbies
 - Weight Lifting
-   - 70KG Bench Press
+   - 75KG Bench Press
    - 100KG Dead Lift
    - 60KG Clean
-   - 60KG Front Squat
+   - 65KG Front Squat
 - Diving
 - Photography and Videography
 - Stocks and Economy
