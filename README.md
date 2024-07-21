@@ -2,7 +2,7 @@
 
 I'm a Full stack developer in Tel Aviv, Israel 🇮🇱🇮🇱🇮🇱 <br>
 Currently work for 👨🏻‍💻 [Env0](https://github.com/env0) <br>
-Part of the core development team of [OpenTofu](https://github.com/opentofu/opentofu)
+Former member of the core development team of [OpenTofu](https://github.com/opentofu/opentofu)
 
 ## 🤹 Skills 
 - React and Node.js
