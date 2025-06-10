@@ -18,14 +18,14 @@ Former member of the core development team of [OpenTofu](https://github.com/open
 ## 🎯 Hobbies
 - Weight Lifting
    - 75KG Bench Press
-   - 100KG Dead Lift
+   - 100KG DeadLift
    - 60KG Clean
    - 65KG Front Squat
 - Diving
 - Photography and Videography
-- Stocks and Economy
+- Day trading Stocks by Time & Price
 
 ## 📞 Contact
 - [Twitter](https://twitter.com/elbaz_eran)
 - [YouTube](https://www.youtube.com/channel/UCVUNeBGM5wZJKcOx0QwAaTA)
-- [Linkdin](https://www.linkedin.com/in/eranelbaz/https://www.linkedin.com/in/eranelbaz/)
+- [Linkdin](https://www.linkedin.com/in/eranelbaz)
